@@ -1,11 +1,13 @@
-- Alireza Danaee
-- PhD candidate at PUC-Rio,
-- Areas of interest: statistical signal processing, distributed optimization and deep learning,
-- Currently working on: energy-efficient techniques for distributed learning,
-- Applications: adaptive IoT networks and federated learning,
-- Email: lastname.firstname at gmail dot com.
+# Alireza Danaee
+## PhD candidate at CETUC, PUC-Rio
 
-<!---
-AlirezaDanaee/AlirezaDanaee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Research Interests**
+Statistical Signal Processing, Distributed Optimization, Federated Learning, Deep Learning
+- **Applications**
+Adaptive Networks, Internet of Things, Wireless Sensor Networks
+- **Tools**
+*Programming Languages:* MATLAB, Python (PyCharm, Jupyter Notebook, Google Colab)
+*Python Libraries:* NumPy, SciPy, Matplotlib, TensorFlow, PyTorch
+*Documentation:* LaTeX (Overleaf), Microsoft Office, Microsoft Project
+
+- Email: lastname.firstname at gmail dot com.
