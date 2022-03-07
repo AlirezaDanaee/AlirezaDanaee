@@ -11,7 +11,7 @@ Adaptive Networks, Internet of Things, Wireless Sensor Networks
 
 - **Tools**
 
-*Programming Languages:* MATLAB, Python (PyCharm, Jupyter Notebook, Google Colab)
+*Programming Languages:* MATLAB, Python (PyCharm, Google Colab)
 
 *Python Libraries:* NumPy, SciPy, Matplotlib, TensorFlow, PyTorch
 
