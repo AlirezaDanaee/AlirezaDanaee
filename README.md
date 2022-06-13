@@ -17,4 +17,4 @@ Adaptive Networks, Internet of Things, Wireless Sensor Networks
 
 *Documentation:* LaTeX (Overleaf), Microsoft Office, Microsoft Project
 
-- Email: lastname.firstname at gmail dot com
+- Email: lastname(dot)firstname(at)gmail(dot)com
