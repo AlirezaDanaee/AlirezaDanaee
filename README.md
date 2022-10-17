@@ -17,6 +17,6 @@ Adaptive Networks - Wireless Communications - Federated Learning - Distributed M
 
 *Documentation:* LaTeX (Overleaf), Microsoft Office, Microsoft Project
 
-<a href="https://linkedin.com/in/alireza-danaee-07248591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-danaee-07248591" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alireza-danaee-07248591" target="blank">LinkedIn</a> - <a href="https://orcid.org/0000-0003-3152-3616" target="blank">ORCID</a> - <a href="https://scholar.google.com/citations?user=mcq5kZIAAAAJ&hl=en" target="blank">Google Scholar</a>
 
 - Email: lastname[dot]firstname[at]gmail[dot]com
