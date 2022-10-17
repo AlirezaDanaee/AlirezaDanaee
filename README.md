@@ -3,18 +3,20 @@
 
 - **Research Interests**
 
-Statistical Signal Processing, Distributed Optimization, Federated Learning, Deep Learning
+Statistical Signal Processing - Distributed Optimization - Machine Learning
 
 - **Applications**
 
-Adaptive Networks, Internet of Things, Wireless Sensor Networks
+Adaptive Networks - Wireless Communications - Federated Learning - Distributed Machine Learning - Multi-Agent Systems - Data Science - Distributed Data Processing
 
 - **Tools**
 
-*Programming Languages:* MATLAB, Python (PyCharm, Google Colab)
+*Programming Languages:* MATLAB - Python (PyCharm, Google Colab)
 
-*Python Libraries:* NumPy, SciPy, Matplotlib, TensorFlow, PyTorch
+*Python Libraries:* NumPy - SciPy - NetworkX - Matplotlib - TensorFlow - PyTorch
 
 *Documentation:* LaTeX (Overleaf), Microsoft Office, Microsoft Project
 
-- Email: lastname(dot)firstname(at)gmail(dot)com
+<a href="https://linkedin.com/in/alireza-danaee-07248591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-danaee-07248591" height="30" width="40" /></a>
+
+- Email: lastname[dot]firstname[at]gmail[dot]com
