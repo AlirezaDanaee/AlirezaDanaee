@@ -7,7 +7,9 @@ Statistical Signal Processing - Distributed Optimization - Machine Learning
 
 - **Applications**
 
-Adaptive Networks - Wireless Communications - Federated Learning - Distributed Machine Learning - Multi-Agent Systems - Data Science - Distributed Data Processing
+Adaptive Networks - Wireless Communications - Federated Learning - Data Science -
+
+Distributed Machine Learning - Distributed Data Processing - Multi-Agent Systems
 
 - **Tools**
 
