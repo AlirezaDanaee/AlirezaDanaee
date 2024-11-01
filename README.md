@@ -19,6 +19,6 @@ Distributed Machine Learning - Distributed Data Processing - Multi-Agent Systems
 
 *Documentation:* LaTeX (Overleaf), Microsoft Office, Microsoft Project
 
-<a href="https://linkedin.com/in/alireza-danaee-07248591" target="blank">LinkedIn</a> - <a href="https://orcid.org/0000-0003-3152-3616" target="blank">ORCID</a> - <a href="https://scholar.google.com/citations?user=mcq5kZIAAAAJ&hl=en" target="blank">Google Scholar</a>
+<a href="https://linkedin.com/in/alireza-danaee-phd" target="blank">LinkedIn</a> - <a href="https://orcid.org/0000-0003-3152-3616" target="blank">ORCID</a>
 
 - Email: lastname[dot]firstname[at]gmail[dot]com
